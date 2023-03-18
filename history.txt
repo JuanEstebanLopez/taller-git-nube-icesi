@@ -1,0 +1,20 @@
+    1  top
+    2  git -version
+    3  yum install -y git
+    4  sudo yum install -y git
+    5  ping github.com
+    6  git -version
+    7  git --version
+    8  clear
+    9  git clone git@github.com:JuanEstebanLopez/taller-git-nube-icesi.git
+   10  ssh-keygen -t ed25519 -C "jelg1994@gmail.com"
+   11  cd .ssh
+   12  ls
+   13  cat id_ed25519.pub
+   14  cd ..
+   15  ls
+   16  pwd
+   17  git clone git@github.com:JuanEstebanLopez/taller-git-nube-icesi.git
+   18  history
+   19  ll
+   20  history > taller-git-nube-icesi/history.txt
